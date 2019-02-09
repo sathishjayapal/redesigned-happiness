@@ -7,15 +7,15 @@
         <version>2.1.2.RELEASE</version>
     </parent>
 
-    <artifactId>contract_time</artifactId>
+    <artifactId>redesigned-happiness</artifactId>
     <version>1.0-SNAPSHOT</version>
     <groupId>org.contractortimer</groupId>
 
     <packaging>pom</packaging>
 
-    <name>contract_time</name>
+    <name>redesigned-happiness</name>
 
-    <description>Contract time main POM</description>
+    <description>Redsigned Happiness</description>
 
 
     <developers>
